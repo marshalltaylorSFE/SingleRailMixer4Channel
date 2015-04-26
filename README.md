@@ -7,7 +7,7 @@ Repository Contents
 -------------------
 
 * **/Layout** - Simple eagle layout intended for toner transfer method (no drills)
-* **/Simulation** - 3D model of an enclosure designed for this particular part
+* **/Simulation** - LTSpice simulations of the various circuits
 
 Version History
 ---------------
