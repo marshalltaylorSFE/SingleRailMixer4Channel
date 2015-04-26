@@ -3,20 +3,15 @@ Single-rail 4 channel mixer
 Design files for building a mixer suitable for mixing straight off the analog out pins of your favorite Arduino variant.
 
 
-Directory Contents
--------------------
-
-* **4mixer.asc** - Model for mixing the filtered, half-rail centered inputs
-* **Input Filter.asc** - Model for filtering out the switching frequency
-
 Repository Contents
 -------------------
 
+* **/Layout** - Simple eagle layout intended for toner transfer method (no drills)
 * **/Simulation** - 3D model of an enclosure designed for this particular part
 
 Version History
 ---------------
-* [V_0.0.0](URL for tag specific to this version) - Initial commit
+* [V_0.1.0](https://github.com/marshalltaylorSFE/SingleRailMixer4Channel/tree/V_0.1.0) - Simulation
 
 License Information
 -------------------
