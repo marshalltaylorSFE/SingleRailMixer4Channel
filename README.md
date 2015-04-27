@@ -11,6 +11,7 @@ Repository Contents
 
 Version History
 ---------------
+* [V_0.2.0](https://github.com/marshalltaylorSFE/SingleRailMixer4Channel/tree/V_0.2.0) - Proto Hardware created
 * [V_0.1.0](https://github.com/marshalltaylorSFE/SingleRailMixer4Channel/tree/V_0.1.0) - Simulation
 
 License Information
